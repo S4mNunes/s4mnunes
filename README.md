@@ -37,16 +37,8 @@ Atualmente estou focado em:
 
 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- 📧 seu.email@exemplo.com
-- 🌐 [Portfólio (se tiver)](https://seusite.com)
-
-📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=default" />
-</div>
+- 💼 [LinkedIn](https://www.linkedin.com/in/samuel-roberto-silva/)
+- 📧 samnunes@outlook.com.br
 
 <p align="center">
   Obrigado pela visita! ⭐ Fique à vontade para explorar meus repositórios.
