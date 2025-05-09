@@ -1,16 +1,53 @@
-### Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Samuel Nunes</h1>
+<p align="center">
+  🎓 Estudante de Ciência de Dados • 💡 Apaixonado por resolver problemas com dados • 🇧🇷 Brasil
+</p>
 
-<!--
-**S4mNunes/s4mnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Sobre mim
 
-Here are some ideas to get you started:
+Sou um estudante dedicado de Ciência de Dados com forte interesse em análise de dados, automações e visão computacional. Estou sempre explorando formas práticas de aplicar conhecimento técnico em projetos úteis e criativos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou focado em:
+
+- 📊 Análise de dados para negócios
+- 🤖 Automação com Python
+- 🎥 Visão computacional e tracking com OpenCV
+- 🛠️ Projetos que unem praticidade e aprendizado contínuo
+
+💼 Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+</div>
+
+📂 Meus Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| **Análise de Vendas (Alura)** | Projeto de análise de vendas com visualizações e insights práticos. | Python, Pandas, Matplotlib |
+| **Music Downloader** | Script em Python que baixa músicas do YouTube em MP3 com poucos cliques. | Python, yt_dlp |
+| **Tracking de Câmera com OpenCV** | Sistema de detecção e acompanhamento de objetos usando visão computacional. | Python, OpenCV, Dlib, YOLO |
+
+🔗 Confira todos os projetos na aba **Repositories**.
+
+📫 Como me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- 📧 seu.email@exemplo.com
+- 🌐 [Portfólio (se tiver)](https://seusite.com)
+
+📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=default" />
+</div>
+
+<p align="center">
+  Obrigado pela visita! ⭐ Fique à vontade para explorar meus repositórios.
+</p>
